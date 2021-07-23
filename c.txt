@@ -2,3 +2,4 @@ This is the third file.
 This is a line for merge conflict.
 There is a new change.
 hello hello
+bye bye
